@@ -1,0 +1,18 @@
+{
+  "n_categories":3,
+  "overall_mean":11.1666666667,
+  "data":[
+    {
+      "category":"A",
+      "mean_value":15.0
+    },
+    {
+      "category":"B",
+      "mean_value":10.0
+    },
+    {
+      "category":"C",
+      "mean_value":8.5
+    }
+  ]
+}
